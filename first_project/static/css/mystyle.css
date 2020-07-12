@@ -1,0 +1,8 @@
+h1{
+    color: red;
+    background-color: aqua;
+}
+
+table, th, td{
+    border: 2px solid black;
+}
